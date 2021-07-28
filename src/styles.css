@@ -1,0 +1,39 @@
+body{
+    color: brown;
+    text-align: center;
+    background-color: brown;
+}
+
+.container {
+    margin: 200px 300px;
+    padding: 30px;
+    background-color: white;
+    border-radius: 15px;
+}
+
+
+.calm {
+background-color:rgba(32, 185, 121, 0.822);
+transition: all 0.25s ease-in-out;
+}
+
+.mystic {
+    background-color:rgb(112, 22, 165);
+    transition: all 0.25s ease-in-out;
+    }
+
+.creative {
+        background-color:rgb(202, 125, 10);
+        transition: all 0.25s ease-in-out;
+        }
+
+button {
+    padding: 5px;
+    border-radius: 8px;
+    cursor: pointer;
+    width: 100px;
+    margin: 0 10px;
+    font-size:24px;
+    color:white;
+   border:brown 1px solid ;
+}
